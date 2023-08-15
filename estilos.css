@@ -1,0 +1,22 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+header{
+    display: flex;
+}
+.logo{
+    display: flex;
+}
+a{
+    text-decoration: none;
+}
+nav{
+    padding-right:100 ;
+    margin-left: 150px;
+}
+.event{
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800;   
+
+}
